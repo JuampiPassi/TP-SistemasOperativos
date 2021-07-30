@@ -69,7 +69,7 @@
 
         <v-list-item :key="5">
             <v-list-item-content>
-              <v-list-item-title>Planificación por Priodidades</v-list-item-title>
+              <v-list-item-title>Planificación por Prioridades</v-list-item-title>
               <v-list-item-subtitle>No Apropiativa</v-list-item-subtitle>
             </v-list-item-content>
             <v-list-item-action>
@@ -81,7 +81,7 @@
 
          <v-list-item :key="6">
             <v-list-item-content>
-              <v-list-item-title>Planificación por Priodidades</v-list-item-title>
+              <v-list-item-title>Planificación por Prioridades</v-list-item-title>
               <v-list-item-subtitle>Apropiativa</v-list-item-subtitle>
             </v-list-item-content>
             <v-list-item-action>
